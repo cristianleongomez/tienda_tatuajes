@@ -304,7 +304,7 @@ asegurar_tablas_existen()
 # ── HEADER ───────────────────────────────────────────────────────────────────
 st.markdown("""
 <div class="ink-header">
-    <h1>INK STUDIO</h1>
+    <h1>ZAFIRO INK</h1>
     <p>Sistema Profesional de Gestión</p>
 </div>
 """, unsafe_allow_html=True)
